@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Azure Fundamentals (AZ-900)/Note/Azure Fundamentals (AZ-900)/Part 1 - Describe core Azure concepts\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Azure Fundamentals (AZ-900)/Note/Azure Fundamentals (AZ-900)/Part 2 - Describe Azure architecture and services\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Azure Fundamentals (AZ-900)/Content\"",
+      "color": {
+        "a": 1,
+        "rgb": 13640679
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 1.67176432291667,
+  "lineSizeMultiplier": 1.325,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.000000000000001,
+  "close": false
+}
