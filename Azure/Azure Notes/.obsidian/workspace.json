@@ -11,11 +11,9 @@
             "id": "d2b951a0e16efc6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Azure Fundamentals (AZ-900)/Note/Azure Fundamentals (AZ-900)/Part 2 - Describe Azure architecture and services/2.3 - Describe Azure storage services.md",
-                "mode": "source",
-                "source": false
+                "file": "Azure Fundamentals (AZ-900)/Resources/Pasted image 20221219203623.png"
               }
             }
           }
@@ -51,7 +49,7 @@
                 "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 445.5
   },
   "right": {
     "id": "e5c0c5427c11b39e",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure Fundamentals (AZ-900)/Note/Azure Fundamentals (AZ-900)/Part 2 - Describe Azure architecture and services/2.3 - Describe Azure storage services.md",
+                "file": "Azure Fundamentals (AZ-900)/Resources/Pasted image 20221219203623.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure Fundamentals (AZ-900)/Note/Azure Fundamentals (AZ-900)/Part 2 - Describe Azure architecture and services/2.3 - Describe Azure storage services.md",
+                "file": "Azure Fundamentals (AZ-900)/Resources/Pasted image 20221219203623.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure Fundamentals (AZ-900)/Note/Azure Fundamentals (AZ-900)/Part 2 - Describe Azure architecture and services/2.3 - Describe Azure storage services.md"
+                "file": "Azure Fundamentals (AZ-900)/Resources/Pasted image 20221219203623.png"
               }
             }
           }
@@ -136,7 +134,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d2b951a0e16efc6d",
+  "active": "c0bbf2fafce16637",
   "lastOpenFiles": [
     "Azure Fundamentals (AZ-900)/Note/Azure Fundamentals (AZ-900)/Part 2 - Describe Azure architecture and services/2.4 - Describe Azure identity, access, and security.md",
     "Azure Fundamentals (AZ-900)/Note/Azure Fundamentals (AZ-900)/Part 2 - Describe Azure architecture and services/2.3 - Describe Azure storage services.md",
